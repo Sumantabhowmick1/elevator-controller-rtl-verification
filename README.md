@@ -141,13 +141,13 @@ The design is verified using a SystemVerilog testbench.
 
 ## FSM Diagram
 
-![FSM Diagram](docs/fsm_diagram.png)
+![FSM Diagram](doc/fsm_diagram.png)
 
 ---
 
 ## Simulation Waveform
 
-![Simulation Waveform](docs/waveform.png)
+![Simulation Waveform](doc/waveform.png)
 
 ---
 
